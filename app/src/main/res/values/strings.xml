@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Charadas</string>
+    <string name="titulo">Jogo de Adivinhação</string>
+    <string name="subtitulo">Teste seus conhecimentos na advinhação</string>
+    <string name="titulo_charada">O que é, o que é?</string>
+    <string name="titulo_resposta">Resposta:</string>
+    <string name="exibir_resposta">Exibir Resposta</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="proxima">Próxima</string>
+</resources>

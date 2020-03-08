@@ -1,0 +1,2 @@
+rootProject.name='Charadas'
+include ':app'
